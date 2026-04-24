@@ -15,6 +15,7 @@ Webアプリやビジネスツールの開発を行っています。
 
 スマホで撮影した画像から、  
 瞬時に**編集可能なデジタル表データ**を作成するサービスです。
+![tabelsanp Demo](images/tablesnap-demo.gif)
 
 ### 🔗 Related Links
 
@@ -98,6 +99,8 @@ Currently, I focus on building useful solutions centered around
 
 A service that instantly converts smartphone photos  
 into **editable structured table data.**
+
+![tabelsanp Demo](images/tablesnap-demo.gif)
 
 ### 🔗 Related Links
 
