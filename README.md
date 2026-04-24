@@ -13,12 +13,8 @@ Webアプリやビジネスツールの開発を行っています。
 
 ## 📸 Main Project: TableSnap（テーブルスナップ）
 
-⚡ **Quick Preview**
-
-![TableSnap Demo](images/tablesnap-demo.gif)
-
 スマホで撮影した画像から、  
-瞬時にデジタルな表データを作成するサービスです。
+瞬時に**編集可能なデジタル表データ**を作成するサービスです。
 
 ### 🔗 Related Links
 
@@ -56,6 +52,10 @@ Google連絡先へ一発で登録する効率化ツール。
 ---
 
 ### 📊 Excel純正機能でのJANコード生成（VBA）
+
+⚡ **Quick Preview**
+
+![JAN Code Generator Demo](images/jan-code-generator-demo.gif)
 
 特殊フォントや外部ソフトを一切使わず、  
 **Excelの標準機能のみ**でJANコードを描画する  
@@ -96,12 +96,8 @@ Currently, I focus on building useful solutions centered around
 
 ## 📸 Main Project: TableSnap
 
-⚡ **Quick Preview**
-
-![TableSnap Demo](images/tablesnap-demo.gif)
-
 A service that instantly converts smartphone photos  
-into structured digital table data.
+into **editable structured table data.**
 
 ### 🔗 Related Links
 
@@ -141,6 +137,10 @@ for instant sharing.
 ---
 
 ### 📊 JAN Code Generator using Native Excel Features (VBA)
+
+⚡ **Quick Preview**
+
+![JAN Code Generator Demo](images/jan-code-generator-demo.gif)
 
 An offline tool that generates JAN codes  
 using only **native Excel features**—  
