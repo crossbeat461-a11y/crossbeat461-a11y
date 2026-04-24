@@ -1,7 +1,7 @@
 # 👋 Hello, I'm K-Tech Studio
 
 <details open>
-<summary>🇯🇵 日本語（Japanese）</summary>
+<summary>🇯🇵 日本語 (Japanese)</summary>
 
 「日常の不便を、技術で解決する」をテーマに、  
 Webアプリやビジネスツールの開発を行っています。  
@@ -19,12 +19,9 @@ Webアプリやビジネスツールの開発を行っています。
 
 ### 🔗 Related Links
 
-- **[note: 制作の背景と想いはこちら](https://note.com/ktech_dev/n/n9b696a0918cf)**  
-- **[TableSnap Pro](https://github.com/crossbeat461-a11y/tablesnap-pro)**  
-  JavaScriptによる動的データ管理システム
+- **[note: 制作の背景と想いはこちら](https://note.com/ktech_dev/n/n9b696a0918cf)** - **[TableSnap Pro](https://github.com/crossbeat461-a11y/tablesnap-pro)** JavaScriptによる動的データ管理システム
 
-- **[TableSnap LP](https://github.com/crossbeat461-a11y/tablesnap-lp)**  
-  サービスの魅力を伝えるランディングページ
+- **[TableSnap LP](https://github.com/crossbeat461-a11y/tablesnap-lp)** サービスの魅力を伝えるランディングページ
 
 ---
 
@@ -86,9 +83,7 @@ Google連絡先へ一発で登録する効率化ツール。
 <summary>🇺🇸 English</summary>
 
 Under the theme  
-**"Solving everyday inconveniences with technology,"**  
-
-I develop web applications and business tools designed for practical use.
+**"Solving everyday inconveniences with technology,"** I develop web applications and business tools designed for practical use.
 
 Currently, I focus on building useful solutions centered around  
 **OCR, QR codes, and automation tools.**
@@ -104,13 +99,9 @@ into **editable structured table data.**
 
 ### 🔗 Related Links
 
-- **[note: Background and story behind the project](https://note.com/ktech_dev/n/n9b696a0918cf)**  
+- **[note: Background and story behind the project](https://note.com/ktech_dev/n/n9b696a0918cf)** - **[TableSnap Pro](https://github.com/crossbeat461-a11y/tablesnap-pro)** A dynamic data management system built with JavaScript.
 
-- **[TableSnap Pro](https://github.com/crossbeat461-a11y/tablesnap-pro)**  
-  A dynamic data management system built with JavaScript.
-
-- **[TableSnap LP](https://github.com/crossbeat461-a11y/tablesnap-lp)**  
-  A landing page designed to showcase the service features.
+- **[TableSnap LP](https://github.com/crossbeat461-a11y/tablesnap-lp)** A landing page designed to showcase the service features.
 
 ---
 
