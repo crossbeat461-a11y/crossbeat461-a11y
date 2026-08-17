@@ -1,5 +1,7 @@
 # 👋 Hello, I'm K-Tech Studio
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/k_tech_studio)
+
 <details open>
 <summary>🇯🇵 日本語 (Japanese)</summary>
 
