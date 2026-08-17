@@ -52,6 +52,10 @@
 
 制作のご依頼やご相談は、ポートフォリオサイトまたは **note** 経由でお気軽にお問い合わせください。
 
+## ☕ Support
+
+[Buy Me a Coffee](https://buymeacoffee.com/k_tech_studio)
+
 </details>
 
 <details>
@@ -105,5 +109,9 @@ An offline tool that generates JAN codes using only **native Excel features**—
 ## ✉️ Contact
 
 For project requests or inquiries, feel free to contact me via the portfolio site or **note**.
+
+## ☕ Support
+
+[Buy Me a Coffee](https://buymeacoffee.com/k_tech_studio)
 
 </details>
