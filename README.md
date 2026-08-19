@@ -2,59 +2,34 @@
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/k_tech_studio)
 
+**Portfolio:** [k-tech-lab.vercel.app](https://k-tech-lab.vercel.app/) · **Support:** [Buy Me a Coffee](https://buymeacoffee.com/k_tech_studio)
+
 <details open>
 <summary>🇯🇵 日本語 (Japanese)</summary>
 
-「日常の不便を、技術で解決する」をテーマに、Webアプリやビジネスツールの開発を行っています。
+Obsidian・ブラウザ・macOS 向けの、小さく実用的なツールを作っています。多くは無料・オープンソースです。
 
-現在は、**OCR・QRコード・自動化ツール**を中心に、実用性の高いソリューションを制作しています。
+## 🚀 主なプロジェクト
 
----
+| 製品 | 説明 |
+|---|---|
+| [TableCSV](https://github.com/crossbeat461-a11y/table-csv) | Obsidian で CSV を表として開く |
+| [Heading Jump Fix](https://github.com/crossbeat461-a11y/k-tech-heading-jump-fix) | 見出しジャンプ後のスクロール補正 |
+| [TableSnap Pro](https://github.com/crossbeat461-a11y/tablesnap-pro) | Web の表を Excel / Markdown でコピー |
+| [OrbitTab](https://github.com/crossbeat461-a11y/OrbitTab) | 新タブを司令塔に（AI・付箋） |
+| [K-Tech PowerGuard](https://github.com/crossbeat461-a11y/K-Tech-PowerGuard) | macOS メニューバー型バッテリー通知 |
+| [Cof-folio](https://coffolio-lp.vercel.app/) | コーヒー記録と 4:6 抽出ガイド |
+| [JAN Barcode Generator](https://jancode-psi.vercel.app/) | Excel で JAN バーコード一括作成 |
 
-## 📸 Main Project: TableSnap（テーブルスナップ）
+## 🔗 Links
 
-スマホで撮影した画像から、瞬時に**編集可能なデジタル表データ**を作成するサービスです。
-![tabelsanp Demo](images/tablesnap-demo.gif)
-
-### 🔗 Related Links
-
-- **[note: 制作の背景と想いはこちら](https://note.com/ktech_dev/n/n9b696a0918cf)**
-- **[TableSnap Pro](https://github.com/crossbeat461-a11y/tablesnap-pro)** - JavaScriptによる動적データ管理システム
-- **[TableSnap Pro LP](https://github.com/crossbeat461-a11y/tablesnap-pro-lp)** - サービスの魅力を伝えるランディングページ（[公開サイト](https://tablesnap-pro-lp.vercel.app/)）
-
----
-
-## 🚀 Recent Projects（無料配布・販売中のプロジェクト）
-
-### ☕ コーヒー抽出アプリ
-最高の1杯を再現するための、抽出時間や温度を管理するWebアプリ。
-
-### 📇 OCR名刺登録ツール
-スマホで名刺を撮影し、Google連絡先へ一発で登録する効率化ツール。
-
-### 📲 スマート連絡先交換
-自分の連絡先をQRコード化し、瞬時に相手へ渡すスマホ向けアプリ。（OCR名刺ツールと連動）
-
-### 📊 Excel純正機能でのJANコード生成（VBA）
-⚡ **Quick Preview**
-![JAN Code Generator Demo](images/jan-code-generator-demo.gif)
-特殊フォントや外部ソフトを一切使わず、**Excelの標準機能のみ**でJANコードを描画する完全オフライン対応ツール。
-
----
-
-## 🛠 Skills & Tools
-
-- **Frontend:** HTML5 / CSS3 / JavaScript
-- **Backend/Office:** Excel VBA / OCR Integration / Google API
-- **Design:** Logo Design / UI Design
-
----
-
-## ✉️ Contact
-
-制作のご依頼やご相談は、ポートフォリオサイトまたは **note** 経由でお気軽にお問い合わせください。
+- **Portfolio:** [K-Tech Lab](https://k-tech-lab.vercel.app/)
+- **note:** [note.com/ktech_dev](https://note.com/ktech_dev)
+- **X:** [@K_Tech_Dev](https://x.com/K_Tech_Dev)
 
 ## ☕ Support
+
+使ってくれた方へのお礼です。無理のない範囲でどうぞ。
 
 [Buy Me a Coffee](https://buymeacoffee.com/k_tech_studio)
 
@@ -63,56 +38,29 @@
 <details>
 <summary>🇺🇸 English</summary>
 
-Under the theme **"Solving everyday inconveniences with technology,"** I develop web applications and business tools designed for practical use.
+I make small, practical tools—mostly free—for Obsidian, the browser, and macOS.
 
-Currently, I focus on building useful solutions centered around **OCR, QR codes, and automation tools.**
+## 🚀 Main projects
 
----
+| Product | Description |
+|---|---|
+| [TableCSV](https://github.com/crossbeat461-a11y/table-csv) | Open CSV files as tables in Obsidian |
+| [Heading Jump Fix](https://github.com/crossbeat461-a11y/k-tech-heading-jump-fix) | Fix heading jumps in the Obsidian outline |
+| [TableSnap Pro](https://github.com/crossbeat461-a11y/tablesnap-pro) | Copy web tables as Excel or Markdown |
+| [OrbitTab](https://github.com/crossbeat461-a11y/OrbitTab) | New-tab start page with AI and sticky notes |
+| [K-Tech PowerGuard](https://github.com/crossbeat461-a11y/K-Tech-PowerGuard) | Free menu-bar battery app for Mac |
+| [Cof-folio](https://coffolio-lp.vercel.app/) | Coffee log and 4:6 brew guide |
+| [JAN Barcode Generator](https://jancode-psi.vercel.app/) | Batch JAN barcodes in Excel |
 
-## 📸 Main Project: TableSnap
+## 🔗 Links
 
-A service that instantly converts smartphone photos into **editable structured table data.**
-![tabelsanp Demo](images/tablesnap-demo.gif)
-
-### 🔗 Related Links
-
-- **[note: Background and story behind the project](https://note.com/ktech_dev/n/n9b696a0918cf)**
-- **[TableSnap Pro](https://github.com/crossbeat461-a11y/tablesnap-pro)** - A dynamic data management system built with JavaScript.
-- **[TableSnap Pro LP](https://github.com/crossbeat461-a11y/tablesnap-pro-lp)** - A landing page designed to showcase the service features ([live site](https://tablesnap-pro-lp.vercel.app/)).
-
----
-
-## 🚀 Recent Projects (Free & Commercial Projects)
-
-### ☕ Coffee Brewing App
-A web application that manages brewing time and temperature to reproduce the perfect cup of coffee.
-
-### 📇 OCR Business Card Registration Tool
-An efficiency tool that captures business cards and instantly registers them into Google Contacts.
-
-### 📲 Smart Contact Exchange
-A smartphone-friendly app that converts contact details into a QR code for instant sharing. (Works together with the OCR card tool.)
-
-### 📊 JAN Code Generator using Native Excel Features (VBA)
-⚡ **Quick Preview**
-![JAN Code Generator Demo](images/jan-code-generator-demo.gif)
-An offline tool that generates JAN codes using only **native Excel features**—no special fonts, add-ins, or external software required.
-
----
-
-## 🛠 Skills & Tools
-
-- **Frontend:** HTML5 / CSS3 / JavaScript
-- **Backend/Office:** Excel VBA / OCR Integration / Google API
-- **Design:** Logo Design / UI Design
-
----
-
-## ✉️ Contact
-
-For project requests or inquiries, feel free to contact me via the portfolio site or **note**.
+- **Portfolio:** [K-Tech Lab](https://k-tech-lab.vercel.app/)
+- **note:** [note.com/ktech_dev](https://note.com/ktech_dev)
+- **X:** [@K_Tech_Dev](https://x.com/K_Tech_Dev)
 
 ## ☕ Support
+
+If one of these helped you, a coffee is more than enough. Thank you for being here.
 
 [Buy Me a Coffee](https://buymeacoffee.com/k_tech_studio)
 
