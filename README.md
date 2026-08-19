@@ -20,7 +20,7 @@
 
 - **[note: 制作の背景と想いはこちら](https://note.com/ktech_dev/n/n9b696a0918cf)**
 - **[TableSnap Pro](https://github.com/crossbeat461-a11y/tablesnap-pro)** - JavaScriptによる動적データ管理システム
-- **[TableSnap LP](https://github.com/crossbeat461-a11y/tablesnap-lp)** - サービスの魅力を伝えるランディングページ
+- **[TableSnap Pro LP](https://github.com/crossbeat461-a11y/tablesnap-pro-lp)** - サービスの魅力を伝えるランディングページ（[公開サイト](https://tablesnap-pro-lp.vercel.app/)）
 
 ---
 
@@ -78,7 +78,7 @@ A service that instantly converts smartphone photos into **editable structured t
 
 - **[note: Background and story behind the project](https://note.com/ktech_dev/n/n9b696a0918cf)**
 - **[TableSnap Pro](https://github.com/crossbeat461-a11y/tablesnap-pro)** - A dynamic data management system built with JavaScript.
-- **[TableSnap LP](https://github.com/crossbeat461-a11y/tablesnap-lp)** - A landing page designed to showcase the service features.
+- **[TableSnap Pro LP](https://github.com/crossbeat461-a11y/tablesnap-pro-lp)** - A landing page designed to showcase the service features ([live site](https://tablesnap-pro-lp.vercel.app/)).
 
 ---
 
