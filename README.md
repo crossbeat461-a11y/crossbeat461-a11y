@@ -13,7 +13,7 @@ Obsidian・ブラウザ・macOS 向けの、小さく実用的なツールを作
 
 | 製品 | 説明 |
 |---|---|
-| [TableCSV](https://github.com/crossbeat461-a11y/table-csv) | Obsidian で CSV を表として開く（v1.4.0 — 最下行固定対応） |
+| [TableCSV](https://github.com/crossbeat461-a11y/table-csv) | Obsidian で CSV を表として開く（v1.4.1 — 最下行固定・スクロール改善） |
 | [Heading Jump Fix](https://github.com/crossbeat461-a11y/k-tech-heading-jump-fix) | 見出しジャンプ後のスクロール補正 |
 | [TableSnap Pro](https://github.com/crossbeat461-a11y/tablesnap-pro) | Web の表を Excel / Markdown でコピー |
 | [OrbitTab](https://github.com/crossbeat461-a11y/OrbitTab) | 新タブを司令塔に（AI・付箋） |
@@ -44,7 +44,7 @@ I make small, practical tools—mostly free—for Obsidian, the browser, and mac
 
 | Product | Description |
 |---|---|
-| [TableCSV](https://github.com/crossbeat461-a11y/table-csv) | Open CSV files as tables in Obsidian (v1.4.0 — pin last row for totals) |
+| [TableCSV](https://github.com/crossbeat461-a11y/table-csv) | Open CSV files as tables in Obsidian (v1.4.1 — pin last row, scroll fix) |
 | [Heading Jump Fix](https://github.com/crossbeat461-a11y/k-tech-heading-jump-fix) | Fix heading jumps in the Obsidian outline |
 | [TableSnap Pro](https://github.com/crossbeat461-a11y/tablesnap-pro) | Copy web tables as Excel or Markdown |
 | [OrbitTab](https://github.com/crossbeat461-a11y/OrbitTab) | New-tab start page with AI and sticky notes |
